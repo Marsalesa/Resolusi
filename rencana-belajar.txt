@@ -2,8 +2,10 @@ RENCANA BELAJAR :
 
 - GIT & GITHUB
   * BRANCH
+    ^ Merge
 - PHP OOP
 - PHP MVC
 - LARAVEL 8
 - REST API
 - CSS Dasar
+- CSS Layout

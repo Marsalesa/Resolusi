@@ -3,6 +3,7 @@ RENCANA BELAJAR :
 - GIT & GITHUB
   * BRANCH
     ^ Merge
+    ^ Pull
 - PHP OOP
 - PHP MVC
 - LARAVEL 8
